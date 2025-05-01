@@ -7,3 +7,4 @@
     - Grid layout for organized project showcase
     - Animations for enhanced user experience
 - **Technologies:** HTML, CSS, JavaScript.
+- **View the Live:** https://prajapatineha04.github.io/My-portfolio-/
